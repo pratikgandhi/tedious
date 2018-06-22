@@ -1,7 +1,18 @@
 {
-  "author": "Pratik Gandhi <pratik.gandhi222@gmail.com>",
-  "contributors": [],
-  "name": "tedious-new",
+  "author": "Mike D Pilsbury <mike.pilsbury@gmail.com>",
+  "contributors": [
+    "Alex Robson",
+    "Arthur Schreiber",
+    "Bret Copeland <bret@atlantisflight.org> (https://github.com/bretcope)",
+    "Bryan Ross <bryan@rossipedia.com> (https://github.com/rossipedia)",
+    "Ciaran Jessup <ciaranj@gmail.com>",
+    "Cort Fritz <cfritz@caa.com>",
+    "lastonesky",
+    "Patrik Simek <patrik@patriksimek.cz>",
+    "Phil Dodderidge <pdodde@poyntz.com>",
+    "Zach Aller"
+  ],
+  "name": "tedious",
   "description": "A TDS driver, for connecting to MS SQLServer databases.",
   "keywords": [
     "sql",
@@ -13,14 +24,14 @@
     "msnodesql",
     "azure"
   ],
-  "homepage": "https://github.com/pratikgandhi/tedious",
-  "bugs": "https://github.com/pratikgandhi/tedious/issues",
+  "homepage": "https://github.com/tediousjs/tedious",
+  "bugs": "https://github.com/tediousjs/tedious/issues",
   "license": "MIT",
-  "version": "1.15.1",
+  "version": "1.15.0",
   "main": "./lib/tedious.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pratikgandhi/tedious.git"
+    "url": "https://github.com/tediousjs/tedious.git"
   },
   "engines": {
     "node": ">= 0.10"
